@@ -6,5 +6,6 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <Authors>Georgi Kirilov</Authors>
   </PropertyGroup>
 </Project>
